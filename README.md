@@ -1,6 +1,5 @@
 <div align="center">
-	<img src="https://d2h44aw7l5xdvz.cloudfront.net/antivenom/img/antivenom-site-id.svg" width="104" alt="Antivenom" />
-	<h3 align="center">Experience Design Framework</h3>
+	<img src="https://d2h44aw7l5xdvz.cloudfront.net/antivenom/img/antivenom-site-id.svg" width="160" alt="Antivenom" />
 	<p align="center">A simple implementation of not-so-simple Python3 modules.</p>
 	<p align="center">
 		<a href="https://github.com/digitdesign/xd/releases/latest">
