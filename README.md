@@ -1,5 +1,6 @@
 <div align="center">
 	<img src="https://d2h44aw7l5xdvz.cloudfront.net/antivenom/img/antivenom-site-id.svg" width="160" alt="Antivenom" />
+	<p>&nbsp;</p>
 	<p align="center">A simple implementation of not-so-simple Python3 modules.</p>
 	<p align="center">
 		<a href="https://github.com/digitdesign/xd/releases/latest">
